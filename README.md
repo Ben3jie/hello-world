@@ -1,12 +1,12 @@
 # hello-world
 Hello World! Let's Code/Share together!
 
-##About Me:
+## About Me:
 I am **new** to Github and look forward to learning with and from *everyone*!
 
 ---
 
-##Skills:
+## Skills:
 -Python
 -Java
 -UI/UX
@@ -15,5 +15,5 @@ I am **new** to Github and look forward to learning with and from *everyone*!
 
 ---
 
-##Ideas:
-Stay tuned for ==updates== :shock:
+## Ideas:
+Stay tuned for <mark>updates</mark> :laughing:
