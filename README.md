@@ -16,4 +16,4 @@ I am **new** to Github and look forward to learning with and from *everyone*!
 ---
 
 ## Ideas:
-Stay tuned for <mark>updates</mark> :stopwatch:
+Stay tuned for == updates == :stopwatch:
